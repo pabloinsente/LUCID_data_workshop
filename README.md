@@ -20,3 +20,18 @@ Preparation for the workshop:
 – Download and install Atom text editor from atom.io  
 – Download and install Git* from git-scm.com/downloads  
 Windows users: when installing git, make sure you have the ‘GitBash Here’ selected.
+
+## Session 3: Fitting and evaluating linear models
+
+This session will introduce you to working with linear regression models using R. We will briefly discuss why linear regression is useful for Psychology and Educational research, using the topic of numerical cognition as an example.  We will play an educational game to generate our own data in the work shop, form predictions, and test those predictions by modeling gameplay performance. Through this exercise we will cover how to fit linear regression models, assess the fit of those models, plot linear relationships, and draw statistical inferences.
+
+Preparation for the workshop:
+– Be ready to uses R, R Studio, and Swirl on your laptop following the instructions here: swirlstats.com/students
+–Install the “Regression Models” swirl module using the following commands in R
+> library(swirl)
+> swirl::install_course(“Regression Models”)
+> swirl()
+
+– Run yourself through lessons 1-6 (Introduction-MultiVar Examples) and continue based on your interest.
+
+Time to complete: 45-60 minutes. Feel free to work with a partner or in groups!
