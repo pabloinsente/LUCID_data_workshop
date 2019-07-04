@@ -35,3 +35,18 @@ Preparation for the workshop:
 – Run yourself through lessons 1-6 (Introduction-MultiVar Examples) and continue based on your interest.
 
 Time to complete: 45-60 minutes. Feel free to work with a partner or in groups!
+
+## Session 3: Fitting and evaluating linear models
+
+This session will introduce the idea of optimization and reghularization for fitting models.  We'll focus on least squares and polynomial models with examples of two different regularizers.
+    ### A rough outline:
+    1. Linear regression as an optimization problem
+    2. Curve fitting as optimization
+    4. Model regularization
+        - Small weights
+        - Sparsity
+
+Preparation for the workshop:
+– Have a working Python3 distribution scikitlearn matplotlib, numpy, jupyter notebooks, and pandas
+
+Time to complete: 45-60 minutes. Feel free to work with a partner or in groups!
