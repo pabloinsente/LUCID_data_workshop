@@ -36,9 +36,9 @@ Preparation for the workshop:
 
 Time to complete: 45-60 minutes. Feel free to work with a partner or in groups!
 
-## Session 3: Fitting and evaluating linear models
+## Session 4: Regression as Optimiation and regularization
 
-This session will introduce the idea of optimization and reghularization for fitting models.  We'll focus on least squares and polynomial models with examples of two different regularizers.
+This session will introduce the idea of optimization and regularization for fitting models.  We'll focus on least squares and polynomial models with examples of two different regularizers.
     ### A rough outline:
     1. Linear regression as an optimization problem
     2. Curve fitting as optimization
