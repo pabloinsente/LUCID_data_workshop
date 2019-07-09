@@ -49,5 +49,3 @@ A rough outline:
 
 Preparation for the workshop:
 – Have a working Python3 distribution scikitlearn matplotlib, numpy, jupyter notebooks, and pandas
-
-Time to complete: 45-60 minutes. Feel free to work with a partner or in groups!
