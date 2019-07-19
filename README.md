@@ -49,3 +49,24 @@ A rough outline:
 
 Preparation for the workshop:
 – Have a working Python3 distribution scikitlearn matplotlib, numpy, jupyter notebooks, and pandas
+
+
+## Session 7: Neural Networks
+
+Machine learning and artificial intelligence technology is growing at an impressive rate. From robotics and self-driving cars to augmented reality devices and facial recognition software, models that make predictions from data are all around us. Many of these applications implement neural networks, which basically allows the computer to analyze data similar to the way the human brain analyzes data.
+
+With recent advancements in computing power and the explosion of big data, we can now implement large models that perform end-to-end learning (deep learning). This means that we can create a model, feed it tons and tons of data, and the model will learn features from the data that are important for accomplishing the task. 
+
+Session outline:
+•	Introduce the simplest neural network, the perceptron 
+•	Discuss the general architecture for neural networks
+•	Implement a neural network to solve a hand writing recognition task
+•	Introduce deep learning (convolutional neural networks)
+•	Implement a deep neural network to solve a hand writing recognition task
+
+Preparation for the workshop:
+1.	Watch the following videos:
+	a.	https://www.youtube.com/watch?v=aircAruvnKk
+	b.	https://www.youtube.com/watch?v=uXt8qF2Zzfo&t=1973s (Watch first 12 min)
+	c.	https://www.youtube.com/watch?v=YRhxdVk_sIs
+
