@@ -5,4 +5,4 @@ Each **listX.txt** file contains a list of animals produced by a single voluntee
 
 The tutorial is written as both a JuPyteR notebook and a plain html file. If you have JuPyteR, just clone or download the repository, open the notebook, and you're off. The notebook must be in the same directory as the listX.txt files. If you don't have JuPyteR but want to run through the tutorial in R or RStudio, just open the .html file, and copy-and-paste the blocks of R text from your browser into your console. In this case, make sure to set the R working directory to the location where the listX.txt files reside.
 
-
+This content for a collaboration between LUCID and PREP at the University of Wisconsin-Madison
